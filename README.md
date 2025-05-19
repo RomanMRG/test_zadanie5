@@ -1,6 +1,6 @@
 # Первый нормальный курс 
 
-![👀 ](https://stepik.org/course/137235/syllabus)
+👀 https://stepik.org/course/137235/syllabus
 
 
 ## 📚 Описание курса
@@ -61,4 +61,4 @@ NoSQL хранилища данных
 
 
 
-
+# СПАСИБО РАЗРАБОТЧИКАМ 
